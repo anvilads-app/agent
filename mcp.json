@@ -1,0 +1,1 @@
+{"mcpServers":{"anvilads":{"headers":{"Authorization":"Bearer ${ANVILADS_API_KEY}"},"type":"http","url":"https://anvilads.com/mcp"}}}
