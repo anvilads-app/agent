@@ -1,1 +1,1 @@
-{"mcpServers":{"anvilads":{"headers":{"Authorization":"Bearer ${ANVILADS_API_KEY}"},"type":"http","url":"https://anvilads.com/mcp"}}}
+{"$schema":"https://agent-plugins.org/schemas/1.0.0/mcp.schema.json","mcpServers":{"anvilads":{"headers":{"Authorization":"Bearer ${ANVILADS_API_KEY}"},"type":"streamable-http","url":"https://anvilads.com/mcp"}}}
